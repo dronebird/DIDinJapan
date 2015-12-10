@@ -3,6 +3,13 @@
 <a href="https://github.com/dronebird/DIDinJapan/blob/master/GeoJSON/h22_did_02_aomori.geojson">
 <img src="https://cloud.githubusercontent.com/assets/416977/11706678/2c1aa090-9f3e-11e5-8961-30739f55465c.png"></a>
 
+
+本データは、以下の政府統計の総合窓口（e-Stat）利用規約に従って、「人口密集地域」データを一般的なウェブマップサービスで利用しやすい 地理空間情報データ形式である GeoJSON形式に変換し、位置参照系（座標系）を EPSG:4326（緯度経度座標系/WGS84）に変換加工したものです。
+
+詳細の利用規約につきましては、
+政府統計の総合窓口（e-Stat）にあります以下のサイトを参照のうえご利用ください。
+
+---
 http://www.e-stat.go.jp/data/download/
 
 ご利用にあたって
