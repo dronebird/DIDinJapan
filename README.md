@@ -1,4 +1,7 @@
 # DIDinJapan
+
+<img src="https://cloud.githubusercontent.com/assets/416977/11706678/2c1aa090-9f3e-11e5-8961-30739f55465c.png">
+
 http://www.e-stat.go.jp/data/download/
 
 ご利用にあたって
