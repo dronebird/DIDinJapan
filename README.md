@@ -16,7 +16,7 @@
 
 
 ---
-http://www.e-stat.go.jp/data/download/
+（以下、 http://www.e-stat.go.jp/data/download/ より引用）
 
 ご利用にあたって
 http://www.e-stat.go.jp/estat/html/spec.html
