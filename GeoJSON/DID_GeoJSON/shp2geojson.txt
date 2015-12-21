@@ -1,0 +1,1 @@
+for %i in (*.shp) do ogr2ogr -t_srs EPSG:4326 -f geoJSON  .\DID_GeoJSON\%~ni.geojson %i
